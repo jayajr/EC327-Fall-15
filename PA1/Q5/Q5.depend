@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443621366 source:c:\users\jerome\desktop\school\ec 327\pa1\q5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
